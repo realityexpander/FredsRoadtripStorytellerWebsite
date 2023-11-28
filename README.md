@@ -10,4 +10,4 @@ Freds Talking Markers Website
 
 Source Code: [https://github.com/realityexpander/FredsHistoryMarkers](https://github.com/realityexpander/FredsHistoryMarkers)
 
-[Privacy Policy](https://github.com/realityexpander/FredsHistoryMarkers/privacy-policy.html)
+[Privacy Policy](https://realityexpander.github.io/FredsTalkingMarkersWebsite/privacy-policy.html)
