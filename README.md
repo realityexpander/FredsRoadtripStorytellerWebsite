@@ -8,6 +8,6 @@ Freds Talking Markers Website
 [Website: https://realityexpander.github.io/FredsRoadtripStorytellerWebsite/](https://realityexpander.github.io/FredsRoadtripStorytellerWebsite/)
 
 
-Source Code: [https://github.com/realityexpander/FredsHistoryMarkers](https://github.com/realityexpander/FredsHistoryMarkers)
+Source Code: [https://github.com/realityexpander/FredsRoadtripStoryteller](https://github.com/realityexpander/FredsRoadtripStoryteller)
 
-[Privacy Policy](https://realityexpander.github.io/FredsTalkingMarkersWebsite/privacy-policy.html)
+[Privacy Policy](https://realityexpander.github.io/FredsRoadtripStorytellerWebsite/privacy-policy.html)
