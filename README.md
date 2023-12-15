@@ -5,7 +5,7 @@ Freds Roadtrip Storyteller Website
 - Google Maps
 - Common iOS and Android App
 
-Website: [https://FredsRoadtripStoryteller.com/
+Website: https://FredsRoadtripStoryteller.com/
 
 
 Source Code: [https://github.com/realityexpander/FredsRoadtripStoryteller](https://github.com/realityexpander/FredsRoadtripStoryteller)
