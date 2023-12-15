@@ -3,7 +3,8 @@ Freds Roadtrip Storyteller Website
 
 100% KMP (Kotlin Multiplatform) project
 - Google Maps
-- Common iOS and Android App
+- Shared UI & Core
+- iOS and Android App (& Desktop!)
 
 Website: https://FredsRoadtripStoryteller.com/
 
