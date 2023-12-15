@@ -1,5 +1,5 @@
 
-Freds Talking Markers Website
+Freds Roadtrip Storyteller Website
 
 100% KMP (Kotlin Multiplatform) project
 - Google Maps
