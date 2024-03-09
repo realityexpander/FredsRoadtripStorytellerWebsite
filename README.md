@@ -1,5 +1,7 @@
 
-Freds Roadtrip Storyteller Website
+Fred's Roadtrip Storyteller Website
+
+![img.png](img.png)
 
 100% KMP (Kotlin Multiplatform) project
 - Google Maps
