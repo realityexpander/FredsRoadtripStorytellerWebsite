@@ -11,6 +11,6 @@ Fred's Roadtrip Storyteller Website
 Website: https://FredsRoadtripStoryteller.com/
 
 
-Source Code: [https://github.com/realityexpander/FredsRoadtripStoryteller](https://github.com/realityexpander/FredsRoadtripStoryteller)
+Source Code for iOS/Android App: [https://github.com/realityexpander/FredsRoadtripStoryteller](https://github.com/realityexpander/FredsRoadtripStoryteller)
 
 [Privacy Policy](https://realityexpander.github.io/FredsRoadtripStorytellerWebsite/privacy-policy.html)
