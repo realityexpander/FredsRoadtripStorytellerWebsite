@@ -1,7 +1,7 @@
 
 Fred's Roadtrip Storyteller Website
 
-![img.png](img.png)
+[<img src="website_splash.png" width="600"/>](website_splash.png)
 
 100% KMP (Kotlin Multiplatform) project
 - Google Maps
